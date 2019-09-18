@@ -1,7 +1,7 @@
 # Machine learning tutorials (2019/2020)
 This repository contains the materials covered in our tutorials. 
 
-## Outline for the course
+## Course outline
 
 This is an approximate outline for our course. This will be probably adjusted depending on your needs and learning progress.
 
