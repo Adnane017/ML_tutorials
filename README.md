@@ -13,13 +13,13 @@ This is an approximate outline for our course. This will be probably adjusted de
    5. Comparison between ML and statistics
    6. Software to install
 2. Linear algebra (Python – Numpy)
-   1. Scalars, vectors, matrices and tensors
-   2. Vector and matrix multiplication
-   3. Inverting a matrix 
-   4. Determinants
+   1. Scalars, vectors and matrices 
+   2. Dot product
+   3. Vector and matrix multiplication
+   4. Inverting a matrix 
    5. Norms and distances
    6. Special matrices and vectors
-3. Probability 
+3. Probability (Python – Numpy)
    1. Random variables
    2. Probability distributions
    3. Marginal and conditional probability (chain rule)
