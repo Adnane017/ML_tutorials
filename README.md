@@ -39,7 +39,7 @@ This is an approximate outline for our course. This will be probably adjusted de
 	6.	Important theorems 
 		1.	Law of large numbers
 		2.	Central limit theorem
-4. Bonus chapter: Statistics (Python – Pandas & Matplotlib)
+4. Statistics (Python – Pandas & Matplotlib)
       1. Data preparation
       2. Data exploration
       3. Data visualisation
