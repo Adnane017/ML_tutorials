@@ -19,23 +19,30 @@ This is an approximate outline for our course. This will be probably adjusted de
    4. Inverting a matrix 
    5. Norms and distances
    6. Special matrices and vectors
-3. Probability (Python – Numpy)
-   1. Random variables
-   2. Probability distributions
-   3. Marginal and conditional probability (chain rule)
-   4. Independence and conditional independence 
-   5. Expectation, variance and covariance
-   6. Common probability distributions
-   7. Bayes’ rule 
-4. Bonus chapter: Statistics (Python, Exploratory.io, PowerBI)
-   1. Descriptive statistics
+3. Probability (Python – Scipy)
+   1.	Definitions
+	2.	Random variables
+	3.	Discrete variables
+		1. Probability mass function
+		2. Expectation and variance
+		3. Some popular discrete probability distributions
+	4.	Continuous variables
+		1.	Probability density function
+		2.	Expectation and variance
+		3.	Cumulative distribution function
+		4.	Some popular continuous probability distributions
+	5.	Joint and conditional distributions
+		1.	Joint probability
+		2.	Conditional probability
+		3.	Independence and conditional independence
+		4.	Covariance and correlation
+	6.	Important theorems 
+		1.	Law of large numbers
+		2.	Central limit theorem
+4. Bonus chapter: Statistics (Python – Pandas & Matplotlib)
       1. Data preparation
       2. Data exploration
       3. Data visualisation
-   2. Inferential statistics
-      1. Estimation (methods of moments, maximum likelihood)
-      2. Confidence intervals
-      3. Hypothesis testing 
 5. Optimisation and necessary concepts in machine learning
    1. Derivatives of multidimensional functions (gradient, hessian matrix)
    2. Gradient descent 
