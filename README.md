@@ -4,7 +4,7 @@ In this series of tutorials, we will cover the prequisites for machine learning 
 
 ## Course outline
 
-1. Introduction to data analysis and machine learning
+1. Introduction to data analysis and machine learning (Python – Pandas)
    1. The data analysis five-stage process
    2. The vocabulary of data 
    3. Definition of machine learning (ML)
@@ -38,17 +38,16 @@ In this series of tutorials, we will cover the prequisites for machine learning 
 	6.	Important theorems 
 		1.	Law of large numbers
 		2.	Central limit theorem
-4. Statistics (Python – Pandas & Matplotlib)
-      1. Data preparation
-      2. Data exploration
-      3. Data visualisation
+4. Data visualisation (Python – Matplotlib)
+      1. A quick guide to Matplotlib
+      2. Simulating flight trajectories
 
 ## Software
 
 The following tools will be necessary or at least very useful for our tutorials, so please install them:
 
 1. Python 3 through Anaconda
-2. Popular Python packages: numpy, scipy, pandas, matplotlib and scikit-learn.
-3. Visual studio code (IDE for editing and running your code)
+2. Popular Python packages: numpy, scipy, pandas and matplotlib.
+3. Visual studio code (for editing and running your code)
 4. Exploratory.io and/or Microsoft Power BI (software for exploratory data analysis)
 
